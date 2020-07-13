@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: chocolate;
+}
+
+h1{
+    font-family: 'Righteous', cursive;
+    margin-left: 37%;
+    margin-top: 5%;
+    margin-bottom: 10px;
+}
+
+.clock{
+    font-size: 70px;
+    font-family: 'Righteous', cursive;
+    text-align: center;
+    width: 290px;
+    height: 80px;
+    background-color: aqua;
+    border: 3px solid black;
+    margin-left: 40%;
+}   
